@@ -1,5 +1,5 @@
 # JM-Droid
-JM- (or JMDash)'s official Android IDE's repository. \
+[JM- (or JMDash)](https://github.com/maxwastakenyt/jmdash)'s official Android IDE's repository. \
 (It's spelled ˈdʒeɪˈɛmˈdɹɔɪd)
 
 ## Design ideas
